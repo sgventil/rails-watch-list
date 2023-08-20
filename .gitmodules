@@ -4,3 +4,6 @@
 [submodule "app/spec"]
 	path = app/spec
 	url = https://github.com/lewagon/fullstack-challenges-04-Rails-watch-list-specs.git
+[submodule "spec"]
+	path = spec
+	url = https://github.com/lewagon/fullstack-challenges-04-Rails-watch-list-specs.git
